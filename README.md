@@ -15,7 +15,7 @@ Applying classification trees, as a supervised learning method, an attempt is ma
 The project has been developed first during the spring and summer of 2021 as a final dissertation of [Master in Data Science](https://masterdatascience.ifca.es/).
 
 <br>
-(Notebooks are commented in Spanish language.)
+(Notebooks are written in R and commented in Spanish language.)
 <br>
 
 <br>
