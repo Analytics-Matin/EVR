@@ -12,7 +12,7 @@ Then proceeds to its aggregation with other demographic and territorial variable
 
 Applying classification trees, as a supervised learning method, an attempt is made to detect the most influential patterns of migration flows between Spanish municipalities. (Chapter 4)
 
-The project has been developed first during the spring and summer of 2021 as the final dissertation of [Master in Data Science](https://masterdatascience.ifca.es/).
+The project has been developed first during the spring and summer of 2021 as a final dissertation of [Master in Data Science](https://masterdatascience.ifca.es/).
 
 <br>
 (Notebooks are commented in Spanish language.)
