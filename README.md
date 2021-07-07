@@ -1,8 +1,11 @@
 # Analysis of residential mobility patterns in Spain<br>using classification trees
 
-### Author: Matin Khakpour (analytics.matin@gmail.com)
+### Author:
+### Matin Khakpour (analytics.matin@gmail.com)
 
-### Advisers: Francisco Matorras Weinig ([UC](https://web.unican.es/departamentos/fmoderna/miembros-del-departamento/personal-docente-e-investigador/profesor?p=444EC84BA88B1062&a=2019)),<br>Olga de Cos Guerra ([UC](https://web.unican.es/departamentos/geourb/miembros-del-departamento/personal-docente-e-investigador/profesor?p=CB0326360BA6B45D&a=2018))
+### Advisers:
+### Francisco Matorras Weinig ([UC](https://web.unican.es/departamentos/fmoderna/miembros-del-departamento/personal-docente-e-investigador/profesor?p=444EC84BA88B1062&a=2019)),
+### Olga de Cos Guerra ([UC](https://web.unican.es/departamentos/geourb/miembros-del-departamento/personal-docente-e-investigador/profesor?p=CB0326360BA6B45D&a=2018))
 
 The Residential Variation Statistics (EVR in Spanish) is an annual report compiled by the National Institute of Statistics (INE) which covers all residential changes reported by individuals when there is a change in their municipality of residence.
 
