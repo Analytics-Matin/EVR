@@ -27,3 +27,5 @@ The project has been developed first during the spring and summer of 2021 as a f
 
 <br>
 All the materials are also available through Zenodo open-access repository with the following DOI:
+<a href="https://doi.org/10.5281/zenodo.5105572"><img src="https://zenodo.org/badge/DOI/10.5281/zenodo.5105572.svg" alt="DOI"></a>
+
