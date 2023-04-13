@@ -1,4 +1,4 @@
-# Analysis of residential mobility patterns in Spain<br>using classification trees
+# Analysis of residential mobility patterns in Spain using classification trees
 
 ### Author:
 ### Matin Khakpour (analytics.matin@gmail.com)
